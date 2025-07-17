@@ -1,4 +1,4 @@
-import DeployButton from '../components/DeployButton';
+import DeployButton from '../src/components/DeployButton';
 
 export default function Home() {
   return (
